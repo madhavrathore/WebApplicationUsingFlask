@@ -1,6 +1,7 @@
 # WebApplicationUsingFlask
 
 Steps to be followed to run the following project
+
 1.Clone project using the link.
 2.Use following commads
     1.python3 -m venv venv
